@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Engineer | Backend · Data Analytics · AI/ML </strong><br/>
-<em>Designing intelligent, scalable systems that bridge backend, frontend, and cloud technologies.</em>
+<em>Building scalable full-stack systems with Go, React, and cloud technologies — backed by ML research and a passion for solving real-world problems.</em>
 </p>
 
 ---
