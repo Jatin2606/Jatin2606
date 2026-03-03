@@ -34,7 +34,7 @@ I'm passionate about building products that solve real problems, and I bring a m
   <a href="mailto:jatin.shivaprk@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/jatin-shivaprakash-8a1667234">
+  <a href="https://www.linkedin.com/in/jatin-shivaprakash-8a1667234">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Jatin2606">
