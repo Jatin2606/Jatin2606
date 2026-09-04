@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://jatin2606.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/🌐_View_Live_Portfolio-Website-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://jatin2606.github.io/Portfolio/resume.pdf">
-    <img src="https://img.shields.io/badge/📄_Resume-PDF-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
 
