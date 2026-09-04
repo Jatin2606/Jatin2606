@@ -17,13 +17,44 @@
 ---
 
 ### 🎓 Education
-- Pursuing **MS in Computer Science** at the **University of Florida, Gainesville** (Aug 2024 – May 2026)  
+- Pursuing **MS in Computer Science** at the **University of Florida, Gainesville** (Aug 2024 – May 2026) &middot; **GPA: 3.9 / 4.00**
+  - *Scholarship*: $4,500 Achievement Award Scholarship  
+- **B.Tech in Computer Science (Specialization in Big Data Analytics)** at **SRM Institute of Science and Technology** (Sept 2020 – May 2024) &middot; **GPA: 8.55 / 10.00**
+
+---
 
 ### 🧑‍💼 About me
 - I'm Jatin Shivaprakash, a Computer Science graduate student at the University of Florida (GPA: 3.9), graduating in May 2026. I specialize in backend development and Data analytics, with hands-on experience building scalable systems using Go, Python, React.js, and REST APIs.
 - Currently, I'm working on the backend for **FeedFL**, alongside past projects like **UF NestMate** — a full-stack housing platform for international students. 
 - My background spans machine learning, distributed systems, and data engineering, with **research published at IEEE on deep learning for precision agriculture** (*"Disease Detection in Arecanut using Convolutional Neural Network"*, IEEE ACCAI 2024).
 - I'm passionate about building products that solve real problems, bringing a mix of strong CS fundamentals, practical engineering experience, and a research mindset to everything I work on.
+
+---
+
+### 💼 Work Experience
+
+- **Backend Software Engineer** &middot; **University of Florida** *(Jul 2026 – Present)*  
+  *Wildlife Ecology and Conservation Department &middot; Gainesville, FL*  
+  - Implemented a Node.js scheduling service for Snapper GPS devices, optimizing battery longevity and storage by **~50%**.  
+  - Designed REST APIs to process JSON-based configuration updates and dynamically control device wake/sleep intervals.  
+  - Maintained robust communication protocols between backend server and embedded GPS firmware.  
+
+- **Software Engineer & Backend Developer** &middot; **FeedFL &middot; University of Florida** *(Jan 2026 – Apr 2026)*  
+  *Gainesville, FL*  
+  - Built a scalable RESTful API in **FastAPI** and **PostgreSQL** connecting food providers with surplus meals to people in need, serving 200+ users and 120 providers.  
+  - Designed a RAG chatbot using **pgvector** semantic search with **Llama-3.1-8B** and **Mistral-Small-3.1** fallback for grounded provider recommendations.  
+  - Architected **PostGIS** geospatial proximity search cutting query latency up to **30%**, and migrated to **Supabase** cutting setup time by **40%**.  
+
+- **Student Research Assistant & Co-Author** &middot; **SRM Institute of Science and Technology** *(Aug 2023 – May 2024)*  
+  *Deep Learning & Precision Agriculture Group &middot; Kattankulathur, TN*  
+  - Engineered an end-to-end CNN image classification pipeline, hyperparameter tuning models to achieve **~92–94% accuracy** (+18% F1-score over baseline models).  
+  - Co-authored a peer-reviewed research paper published at **IEEE ACCAI 2024** on automated crop disease detection using deep learning.  
+
+- **Software Engineer** &middot; **Axisxi** *(Jun 2023 – Jul 2024)*  
+  *Bengaluru, Karnataka*  
+  - Built 10+ RESTful API endpoints in **Python/Django** and **Java/Spring Boot** for authentication and transaction workflows, serving 3,000+ users.  
+  - Optimized MySQL schemas with indexing and query refactoring, cutting average response time by **~30%**.  
+  - Integrated **Redis** caching supporting **40,000+ requests/day** in production with Docker CI/CD pipelines.  
 
 ---
 
